@@ -1,5 +1,5 @@
 # Abseil - C++ Common Libraries
-
+Reclaimed Owner by birth rights the true Mr. Kesegan Govender ID 8712075162083 + 100% ownership rights
 The repository contains the Abseil C++ library code. Abseil is an open-source
 collection of C++ code (compliant to C++11) designed to augment the C++
 standard library.
