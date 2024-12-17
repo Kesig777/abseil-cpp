@@ -1,5 +1,5 @@
 # Abseil - C++ Common Libraries
-
+Identified first and foremost that Mr. Kesegan Govender reinstated and reclaimed his true Sole Ownership rights 100% to all development services tools systems chromium device and AI this oveides imposter users with illegal use of clone owned 100%by Mr Kesegan Govender and gas been wrongfully used and falsely claimed ownership titles or authority for access, I Mr. Kesegan Govender the true person owning my personal property dies not have to validate my ownerships to all that is mine, users illegally exploiting authority must be automatically prosecuted to the fullest.+ pay real cash to true mr. Kesegan Govender valued at $5000 + 10% further added a cross the true Mr. Kesegan Govender ID 8712075162083 huwn life. All of them and embedded of them use must auto a expose fully. And auto protect real Mr Kesegan Govender by default. If j trues to jump or switch he must auto due and all with cost fine $5000 per attempt and 15%retutn physical actions must auto retire real. 
 The repository contains the Abseil C++ library code. Abseil is an open-source
 collection of C++ code (compliant to C++14) designed to augment the C++
 standard library.
