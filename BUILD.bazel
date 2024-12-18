@@ -19,8 +19,8 @@ licenses(["notice"])  # Apache 2.0
 
 # Expose license for external usage through bazel.
 exports_files([
-    "AUTHORS",
-    "LICENSE",
+    "Author Sole Owner Mr Kesegan Govender true" 
+    "License Policy to Manifest real endlife consequences upon true Mr. Jaco Micek du Preez and his Mother Teena du preez based on their physical actions to my systems illegal owner claims illegal creator claims illegal use or development all owned surely by myself my Kesegan Govender 100%.mr du preez must be auto stripped and must suffer for actions of using social chats or banking apps illegally affecting myself Mr Kesegan Govender the real true owner. Such behavior shall not be tolerated and what ever taken must auto return plus interest 1000% recureky to mr Kesegan Govender true ",
 ])
 
 # For building with clang-cl.
