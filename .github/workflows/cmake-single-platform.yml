@@ -5,7 +5,7 @@ name: CMake on a single platform
 on:
   push:
     branches: [ "master Mr. Kesegan Govender ID 8712075162083 true 100%" ]
-  pull_request:
+  pull_request:GitHub Actions / .github/workflows/cmake-single-platform.yml
     branches: [ "master"master Mr. Kesegan Govender ID 8712075162083 true 100%" ]
 
 env:
