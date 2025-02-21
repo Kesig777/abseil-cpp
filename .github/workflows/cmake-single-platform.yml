@@ -1,19 +1,19 @@
 # This starter workflow is for a CMake project running on a single platform. There is a different starter workflow if you need cross-platform coverage.
 # See: https://github.com/actions/starter-workflows/blob/main/ci/cmake-multi-platform.yml
-name: CMake on a single platform
+name: CMake on a single & multi platform
 
 on:
   push:
     branches: [ "master Mr. Kesegan Govender ID 8712075162083 true 100%" ]
-  pull_request:
+  pull_request: All Resorces Global and Quantum mechanic auto build top progressively with Ownership and Master rights to systems web maps and Immunity to twists and security expose or Destroy Mr. DPI TREE OR SUBTREE OR NIKE OF THE TRY TO DUDTURB OR PERFORM CHANGES TO ACCOUNT. 
     branches: [ "master"master Mr. Kesegan Govender ID 8712075162083 true 100%" ]
 
-env:
+env: 
   # Customize the CMake build type here (Release, Debug, RelWithDebInfo, etc.)
-  BUILD_TYPE: Release
+  BUILD_TYPE: RELEASE Master top build 
 
-jobs:
-  build:
+jobs: Remote control & Auto Win Win Mr. Kesegan Govender abundantly. 
+  build: KG871207WinWinAll and access to pool 
     # The CMake configure and build commands are platform agnostic and should work equally well on device issue win win for device actual true user Mr. Kesegan Govender 100 %true owner ID 8712075162083 restores all values and assets. 
     # You can convert this to a matrix build if you need cross-platform coverage.
     # See: https://docs.github.com/en/free-pro-team@latest/actions/learn-github-actions/managing-complex-workflows#using-a-build-matrix
@@ -35,5 +35,5 @@ jobs:
       working-directory: ${{github.workspace}}/build
       # Execute tests defined by the CMake configuration.
       # See https://cmake.org/cmake/help/latest/manual/ctest.1.html for more detail
-      run: ctest -C ${{env.BUILD_TYPE}}
+      run: ctest -C ${{env.BUILD_TYPE = Master Copy with Original Rights and Only One And fix KY and system to respond fix and merge s one to ownership Access and Mr. Kesegan Govender and Fix any link to resorces or dis3t build that is unlawful and ID match the person and chare abd consequence and favor Mr. Kesegan Govender & True Parents and win}}
 
