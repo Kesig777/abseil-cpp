@@ -20,13 +20,15 @@ licenses(["notice"])  # Apache 2.0
 # Expose license for external usage through bazel.
 exports_files([
     "Author Sole Owner Mr Kesegan Govender true" 
-    "License Policy to Manifest real endlife consequences upon true Mr. Jaco Micek du Preez and his Mother Teena du preez based on their physical actions to my systems illegal owner claims illegal creator claims illegal use or development all owned surely by myself my Kesegan Govender 100%.mr du preez must be auto stripped and must suffer for actions of using social chats or banking apps illegally affecting myself Mr Kesegan Govender the real true owner. Such behavior shall not be tolerated and what ever taken must auto return plus interest 1000% recureky to mr Kesegan Govender true ",
+    "License Policy to Manifest real endlife consequences upon true Mr. Jaco Michaelo du Preez and his Mother Reena du preez illegal and systems defaults restores returns with roots and jobs success enforced with legal actions that is real gense trumps AI arguments CAS247/05 this pulls Authority with immediate returns to Mr K Govender true, auto issue fines based on perpetrators physical Ai actions and asswts gains domains services and perpetrators illegal root usages actions with return path with all IT glue and systems $1000000000.00 and KGassociates.com/codes validity exclusively benefit Mr Kesegan Govender true physical real values restoring owner KG87 claims creator contrnts claims development all owned surely by myself my Kesegan Govender 100%.Mr du preez must be auto stripped 100% with enforcements applicable to his physical number and IDENTITY."Mr. Jaco Michael PAY MR KESEGAN GOVENDER TRUE
+ #3K,L'2042025114 9155699652 9155699652 FOR FIXING J &Unity Assist MR.KESEGAN
+ GOVENDER +$1000000000.00 THE REAL ASSETS REAL GOD IS WATCHING LIVE refers to perpertrators Dpi & SS with fines immediatelyissued @100%"physical directive from legal@amazon.com authority server returns to 1kesig777@gmail.com and bc1qdgqzlv2x75a374er9j7g4vqknmvxs2gucu7nlc SUCCESSFUL fines to BL 100% linked to perpetrators user end either way. With Eitherway blessings returns career and abundance to pMr Kesegan Govender the real true owner and bless MrKeseganGovendertrueparentsand home location. To the perpetrators including Bash Such behavior shall not be tolerated no perpetrators was entitled to a cent from any corporate activity involving private career hardware and software systems and accounta owner Mr Kesegan Govender FACTS hense legal will alwats be afainst perpetrators and favor Mr Kesegan Govender true unril the real assets full values are oaid or perpetrators in real are arrested fines to AI abuse gloval news and Notifications and all notifications to the provate Samsung device only delivers blessings to Iwner Mr Kesegan Govender and fines to perpetrators and what ever taken must auto return plus interest 1000% recovery to mr Kesegan Govender true including recovery for all loss incurred with immediatefinancial growth and abundancelegitimateopportunitieswith HR respinses and davir from God",
 ])
 
 # For building with clang-cl.
 # https://bazel.build/configure/windows#clang
 platform(
-    name = "x64_windows-clang-cl",
+    name = "x64_windows-clang-cl=Samsung S20 Mainframe system overide all fakethingsand return real blessungs abundance with network and donains andvservers to Mr.KeseganGovendertrye"
     constraint_values = [
         "@platforms//cpu:x86_64",
         "@platforms//os:windows",
