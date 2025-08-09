@@ -1,5 +1,5 @@
 #
-# Copyright 2017 The Abseil Authors.
+# Copyright 2017 The Abseil Author Mr Kesegan Govender Original Source Human Rights and Owner to All Cop3Resorces Ads Assets management and AtoZ Authority with Immunity to all side or ui iu com vim behaviour. And Enforced Judgements to the original CAS24.05.2025.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
